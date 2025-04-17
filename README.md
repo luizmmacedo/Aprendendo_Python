@@ -7,3 +7,6 @@ source .venv/bin/activate
 deactivate
 
 pip install -r requirements.txt
+
+pip install jupyter
+
